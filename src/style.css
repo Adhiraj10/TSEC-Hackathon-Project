@@ -1,0 +1,89 @@
+body{
+   margin: 0px;
+   padding: 0px;
+   background-image: url('E:/TSEC Hackathon Website/img/team.jpg');
+   background-size:1920px 1080px;  
+}
+.signin{
+   font-size: 35px;
+   color: #FAA41A;
+   position: relative;
+   top:-53px;
+   left:-27px;
+}
+.LoginBar{
+   height: fit-content;
+   width: fit-content;
+   position: relative;
+   top: 200px;
+   left:630px;
+   border: 2px solid #000 ;
+   border-radius: 10px;
+   padding: 50px 50px;
+   background-color: rgb(0, 0, 0, 0.6);
+}
+.input{
+   display:block;
+   position: relative;
+   right: -21px;
+   font-size: 22px;
+   height: 40px;
+   width: 300px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   border: 2px solid black;
+   border-radius: 4px;
+   outline: none;
+   background-color: #fff;
+}
+#login{
+   height: 45px;
+   width: 126px;
+   position: relative;
+   left: 202px;
+   bottom: 59px;
+   background-color: #FAA41A;
+}
+#login:hover{
+   background-color: #FFAF4F;
+}
+#email{
+position: relative;
+top: -67px;
+}
+#password{
+   position: relative;
+   top: -53px;
+}
+#registerhead{
+   font-size: 20px;
+   color: #fff;
+   position: relative;
+   bottom: -263px;
+   left: 26px;
+}
+#registerlink{
+   color: #FAA41A;;
+   text-decoration: none;
+}
+#registerlink:hover{
+   color: #FFAF4F;
+}
+.key{
+   position: relative;
+   bottom: 203px;
+   right: 27px;
+   background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}
+.envelope{
+   position: relative;
+   bottom: 294px;
+   right: 81px;
+   background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}

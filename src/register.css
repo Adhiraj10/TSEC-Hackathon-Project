@@ -1,0 +1,114 @@
+body{
+   margin: 0px;
+   padding: 0px;
+   background-image: url('E:/TSEC Hackathon Website/img/team.jpg');
+   background-size:1920px 1080px; 
+}
+.signin{
+   font-size: 35px;
+   color: #FAA41A;
+   position: relative;
+   top:-53px;
+   left:-27px;
+}
+.LoginBar{
+   height: fit-content;
+   width: fit-content;
+   position: relative;
+   top: 110px;
+   left:630px;
+   border: 2px solid #000 ;
+   border-radius: 10px;
+   padding: 50px 50px;
+   background-color: rgb(0, 0, 0, 0.6);
+}
+.input{
+   display:block;
+   position: relative;
+   right: -21px;
+   font-size: 22px;
+   height: 40px;
+   width: 300px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   border: 2px solid black;
+   border-radius: 4px;
+   outline: none;
+   background-color: #fff;
+}
+#register{
+   height: 45px;
+   width: 126px;
+   position: relative;
+   left: 202px;
+   bottom: 21px;
+   background-color: #FAA41A;
+}
+#register:hover{
+   background-color: #FFAF4F;
+}
+#First-name{   
+   position: relative;
+   top: -41px;
+}
+#Last-name{
+   position: relative;
+   top: -33px;
+}
+#email{
+position: relative;
+top: -25px;
+}
+#Password{
+   position: relative;
+   top: -16px;
+}
+#Phone-number{
+   position: relative;
+   top: -7px;
+}
+.key{
+   position: relative;
+   bottom: 242px;
+   right: 27px;
+   background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}
+.envelope{
+   position: relative;
+   bottom: 327px;
+   right: 81px;
+   background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}
+.user{
+  position: relative;
+  bottom: 495px;
+  right: 126px;
+  background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}
+.user2{
+  position: relative;
+  bottom: 412px;
+  right: 170px;
+  background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}
+.phone{
+  position: relative;
+  bottom: 158px;
+  right: 217px;
+  background-color: #FAA41A;
+   font-size: 34px;
+   border: 2px solid black;
+   border-radius: 4px;
+}
